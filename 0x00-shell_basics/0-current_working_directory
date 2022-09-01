@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd
+ln -s 0-current_working_directory symbolic_link
